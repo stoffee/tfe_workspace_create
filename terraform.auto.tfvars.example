@@ -1,0 +1,4 @@
+tfe_hostname   = "terraform.yoyodyne.com"
+tfe_token      = "q8BoGiR3O11wqA.atlasv1.m3WE....."
+workspace_name = "My-New-Workspace-Name"
+organization   = "My-Existing-Organization"
